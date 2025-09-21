@@ -1,2 +1,2 @@
 # delta-demo
-This is my basic repo.
+This a Demo for Git &amp; Github class.
